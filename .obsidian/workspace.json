@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github Sync Test.md",
+                "file": "Sequoia Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Github Sync Test"
+              "title": "Sequoia Framework"
             }
           }
         ]
@@ -167,12 +167,12 @@
   },
   "active": "d7bbd6cd87c00bb4",
   "lastOpenFiles": [
-    "EarlyTractionScoreboard.md",
-    "Github Sync Test.md",
-    "Sequoia Framework.md",
     "POVClarityFramework.md",
+    "Sequoia Framework.md",
+    "EarlyTractionScoreboard.md",
     "ApplicationHack.md",
     "AppLaunchChecklist.md",
+    "Github Sync Test.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",
