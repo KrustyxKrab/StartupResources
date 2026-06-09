@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AppLaunchChecklist.md",
+                "file": "POVClarityFramework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AppLaunchChecklist"
+              "title": "POVClarityFramework"
             }
           }
         ]
@@ -167,8 +167,8 @@
   },
   "active": "d7bbd6cd87c00bb4",
   "lastOpenFiles": [
-    "POVClarityFramework.md",
     "Sequoia Framework.md",
+    "POVClarityFramework.md",
     "EarlyTractionScoreboard.md",
     "ApplicationHack.md",
     "AppLaunchChecklist.md",
